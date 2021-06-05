@@ -1,0 +1,21 @@
+{
+  "name": "GeoMapData_CN",
+  "version": "1.0.0",
+  "description": "可直接用于echarts地图的显示",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archieve-viruspc/GeoMapData_CN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archieve-viruspc/GeoMapData_CN/issues"
+  },
+  "homepage": "https://github.com/archieve-viruspc/GeoMapData_CN#readme"
+}
